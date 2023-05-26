@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369332581455",
+    "project_id": "projectpagamento",
+    "storage_bucket": "projectpagamento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369332581455:android:b39ce1071b50152435a63a",
+        "android_client_info": {
+          "package_name": "com.example.pagamentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4g8GCpskQoUpUa3Hj_SOdBabU51oPr0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
